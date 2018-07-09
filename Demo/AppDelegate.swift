@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  Demo
 //
-//  Created by Mukundraj on 09/07/18.
 //  Copyright © 2018 Mukundraj. All rights reserved.
 //
 
